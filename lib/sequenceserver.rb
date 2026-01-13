@@ -10,7 +10,7 @@ module SequenceServer
   # The default version of BLAST that will be downloaded and configured for use.
   BLAST_VERSION = '2.16.0+'.freeze
 
-  # Default location of configuration file.
+  # Default location of configuration file...
   DEFAULT_CONFIG_FILE = '~/.sequenceserver.conf'.freeze
 
   # Constant for denoting the path ~/.sequenceserver
